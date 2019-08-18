@@ -1,0 +1,4 @@
+#!/usr/bin/with-contenv /bin/bash
+
+gosu runuser bash -c '/usr/bin/lutris'
+
